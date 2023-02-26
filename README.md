@@ -25,5 +25,9 @@ Graph 3 - Unable translate due to file type, and when attempt was made to conver
 
 Graph 4 - Unable translate due to file type, and when attempt was made to convert the file type to PDF or add to a word document, the picture lost all of its readability.
 
-Term Project_Data & Metdada Profile_Updated_LEGER.docx - Updated on 02-26-23 based on Professor's comments on initial submission.
+Term Project_Data & Metdada Profile_Updated_LEGER.docx - Updated on 02-26-23 based on Professor's comments on initial submission. I edited the one line "The metadata supporting said data is the data on the causes..." to be more clear, and chose a different metadata standard that seemed to fit better with the metadata of this dataset, and gave a clearer explanation.
+
+Term Project_Repository Profile_Updated_LEGER.docx - Updated on 02-26-23 based on Professor's comment on initial submission. I added a couple of lines at the end to indicate that I did indeed look for a better explanation of "microdata", but I was unable to find one.
+
+
 
