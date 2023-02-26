@@ -24,3 +24,6 @@ Graph 2 - Unable translate due to file type, and when attempt was made to conver
 Graph 3 - Unable translate due to file type, and when attempt was made to convert the file type to PDF or add to a word document, the picture lost all of its readability.
 
 Graph 4 - Unable translate due to file type, and when attempt was made to convert the file type to PDF or add to a word document, the picture lost all of its readability.
+
+Term Project_Data & Metdada Profile_Updated_LEGER.docx - Updated on 02-26-23 based on Professor's comments on initial submission.
+
