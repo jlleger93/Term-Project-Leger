@@ -33,7 +33,7 @@ Graph 4 - Unable translate due to file type, and when attempt was made to conver
 
 Term Project_Data & Metdada Profile_Updated_LEGER.docx - Updated on 02-26-23 based on Professor's comments on initial submission. I edited the one line "The metadata supporting said data is the data on the causes..." to be more clear, and chose a different metadata standard that seemed to fit better with the metadata of this dataset, and gave a clearer explanation.
 
-Term Project_Repository Profile_Updated_LEGER.docx - Updated on 02-26-23 based on Professor's comment on initial submission. I added a couple of lines at the end to indicate that I did indeed look for a better explanation of "microdata", but I was unable to find one.
+Term Project_Repository Profile_Updated_LEGER.docx - Updated on 02-26-23 based on Professor's comment on initial submission. I added a couple of lines at the end to indicate that I did indeed look for a better explanation of "microdata", but I was unable to find one. 
 
-Term Project_Final Project First Draft_Additional Info._LEGER.docx
+Term Project_Final Project_Additional Info._LEGER.docx - Updated on 03-12-23 with copyright license question answered.
 
