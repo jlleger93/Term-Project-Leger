@@ -7,13 +7,19 @@ Metdata.xml File downloaded directly from Figshare
 
 Table_1_Google_Translated - Portugues to English
 
+Has been tested & updated with the translation - 03-12-23
+
 Table_1_OG - In the original language it was written in, Portugues.
 
 Table_2_Google_Translated - Portugues to English
 
+Has been tested & updated with the translation - 03-12-23
+
 Table_2_OG - In the original language it was written in, Portugues.
 
 Table_3_Google_Translated - Portugues to English
+
+Has been tested & updated with the translation - 03-12-23
 
 Table_3_OG - In the original language it was written in, Portugues.
 
